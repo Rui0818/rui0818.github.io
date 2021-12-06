@@ -1,15 +1,15 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+title: Rui Zhang
+description: Rui is a Master student majoring data analytics at The George Washington University. She is an expert in data analytics and risk analysis 
+keywords: data analytics risk analysis
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
+          <li><a href="https://github.com/rui0818">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
       </ul>
