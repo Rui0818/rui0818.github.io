@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentations
-description: Student's Presentations in Data Analytics
+title: Projects
+description: My projects in Data Analytics
 ---
 
 
@@ -9,8 +9,11 @@ description: Student's Presentations in Data Analytics
 
 #### SEAS 6401 Final Project: Modeling of Prediction Loan Default with Machine Learning
 <br/>&nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
+[![ppt](icons16/ppt-icon.png)](assets/SEAS6401/presentation)<br/>
+<br/>&nbsp; &nbsp; &nbsp; GitHub:
+[![github](icons16/github-icon.png)](https://github.com/Rui0818/SEAS6401)<br/>
+<br/>&nbsp; &nbsp; &nbsp; Paper:
+[![pdf](icons16/pdf-icon.png)](assets/SEAS6401/paper)<br/>
 &nbsp; &nbsp; &nbsp; 
 
 ---
