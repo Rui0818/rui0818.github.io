@@ -1,7 +1,7 @@
 ---
 layout: page
 title: courses
-description: Student's Courses
+description: My Courses
 ---
 
 <div class="navbar">
@@ -18,13 +18,14 @@ description: Student's Courses
 
 ### <a name="current"></a>Current courses
 
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
+#### Data Analytics Introduction and Practicum (SEAS 6401; Fall, 2021)
 
-- [Site](https://bsharvey.github.io/)
+<!-- - [Site](https://bsharvey.github.io/)
 - [My Portfolio](https://username.github.io/)
 - [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
-- [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
+- [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs) -->
 
+#### Programming for Analytics (EMSE 6574; Fall, 2021)
 ---
 
 ### <a name="shortcourses"></a>Short courses
