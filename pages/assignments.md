@@ -1,7 +1,7 @@
 ---
 layout: page
 title: labs & assignments
-description: Ben Harvey's assignments
+description: Rui Zhang's assignments
 ---
 
 
@@ -19,54 +19,71 @@ description: Ben Harvey's assignments
 </div>
 
 
-<!-- ### EMSE 6992 Assignments
+### SEAS 6401 Assignments
 ####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
-
-{Add description of example an assignment here}
+##### <a name="Data Analysis with pandas"></a>data analysis with pandas
+* [Lab: pandas](https://github.com/Rui0818/SEAS6401/blob/main/Assignments/Assignment1.ipynb)
 
 
-##### <a name="visualization"></a>visualization
+- Import the COVID-19 dataset
+- Summerize the data
+- Slice and munge data
+- Group data and perform aggregate functions
+- Work with missing data and duplicates
+- Visualization
+
+
+<!-- ##### <a name="visualization"></a>visualization
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
 {Add description of example an assignment here}
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[assignment1 results]()| [assignment1 repositiory]() -->
 
 ---
 
 
 ####  <a name="Assignment2"></a>Assignment2
-##### <a name="scientificcomputing"></a>scientific computing
-* [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
+##### <a name="Databricks Platform"></a>databricks platform
+* [Lab: BedBricks Datasets](https://github.com/Rui0818/SEAS6401/blob/main/Assignments/Assignment2_Part1.ipynb)
 
-{Add description of example an assignment here}
+Explore BedBricks datasets
+- View data files in DBFS using magic commands
+- View data files in DBFS using dbutils
+- Create tables from files in DBFS
+- Execute SQL to answer questions on BedBricks datasets
 
 
-##### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
+##### <a name="DataFrame and Column"></a>dataframe and column
+* [Lab: pyspark.sql.functions](https://github.com/Rui0818/SEAS6401/blob/main/Assignments/Assignment2_Part2.ipynb)
 
-{Add description of example an assignment here}
+- Construct columns
+- Subset columns
+- Add or replace columns
+- Subset rows
+- Sort rows
 
-| Results                | Repository                 |
+
+##### <a name="DataFrames and Transformations Review"></a>dataframes and transformations review
+* [Lab: pyspark.sql.functions](https://github.com/Rui0818/SEAS6401/blob/main/Assignments/Assignment2_Part3.ipynb)
+
+<!-- | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| [assignment2 results]()| [assignment2 repositiory]()| -->
 
 ---
 
 
 ####  <a name="Assignment3"></a>Assignment3
-##### <a name="deeplearning"></a>machine learning part1
-* [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+##### <a name="Detecting Melanorma with Deep Learning"></a>detecting melanorma with deep learning
+* [Lab: deep learning, machine learning, image classification, HLS, tensorflow](https://github.com/Rui0818/SEAS6401/blob/main/Assignments/Assignment3.ipynb)
 
-{Add description of example an assignment here}
+<!-- {Add description of example an assignment here} -->
 
 
-##### <a name="machinelearning"></a>machine learning part2
+<!-- ##### <a name="machinelearning"></a>machine learning part2
 * [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
 
 {Add description of example an assignment here}
@@ -74,23 +91,23 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+| [assignment3 results]()| [assignment3 repositiory]()| -->
 
 ---
 
 
 
-####  <a name="Assignment4"></a>Assignment4
-##### <a name="networkanalysis"></a>network analysis
-* [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
+<!-- ####  <a name="Assignment4"></a>Assignment4
+##### <a name="Questions"></a>network analysis
+* [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb) -->
 
-{Add description of example an assignment here}
+<!-- {Add description of example an assignment here}
 
 
 ##### <a name="bigdataanalytics"></a>big data analytics
-* [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
+* [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb) -->
 
-{Add description of example an assignment here}
+<!-- {Add description of example an assignment here}
 
 
 | Results                | Repository                 |
