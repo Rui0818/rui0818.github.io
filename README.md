@@ -1,6 +1,6 @@
 ## Rui Zhang&rsquo;s website
 
-See [my website](https://rui0818.github.io).
+See [my personal website](https://rui0818.github.io).
 
 ---
 
