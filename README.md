@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s website
+## Rui Zhang&rsquo;s website
 
-See [kbroman.org](http://kbroman.org).
+See [my website](https://rui0818.github.io).
 
 ---
 
